@@ -14,6 +14,8 @@ Checkout our website with a [live demo](https://megadraft.io/)!
 
 ## Developing
 
+⚠ Make sure you're using node <14
+
 To run the development server and see the examples:
 
 ```
@@ -23,7 +25,6 @@ make setup
 make run
 ```
 
-> Note: make sure you're using node <14
 
 Then visit http://localhost:8080/#/ on your browser.
 
